@@ -1,0 +1,45 @@
+.FFC{
+    border-radius: 10px;
+}
+
+
+.center {
+  display: block;
+  border-radius:  10px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+lement.style {
+}
+a {
+    color: #aaa;
+    text-decoration: none;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+footer td:last-child {
+    text-align: right;
+}
+user agent stylesheet
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 2px;
+}
+@media screen and (max-width: 950px)
+footer {
+    font-size: 1.75vw;
+}
+footer {
+    text-align: left;
+    color: #aaa;
+    font-size: 1em;
+    height: 10%;
+    min-height: 50px;
+}
